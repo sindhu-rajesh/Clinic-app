@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "66123456789abcd1234a1",
+    "image": "https://example.com/images/dr-john-doe.jpg",
+    "name": "Dr. John Doe",
+    "specialty": "Cardiologist",
+    "experience": "10 years",
+    "rating": 4.8,
+    "fees": 500,
+    "availability": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "_id": "66123456789abcd1234a2",
+    "image": "https://example.com/images/dr-jane-smith.jpg",
+    "name": "Dr. Jane Smith",
+    "specialty": "Dermatologist",
+    "experience": "8 years",
+    "rating": 4.5,
+    "fees": 400,
+    "availability": ["Tuesday", "Thursday", "Saturday"]
+  },
+  {
+    "_id": "66123456789abcd1234a3",
+    "image": "https://example.com/images/dr-robert-brown.jpg",
+    "name": "Dr. Robert Brown",
+    "specialty": "Neurologist",
+    "experience": "12 years",
+    "rating": 4.9,
+    "fees": 700,
+    "availability": ["Monday", "Thursday", "Sunday"]
+  },
+  {
+    "_id": "66123456789abcd1234a4",
+    "image": "https://example.com/images/dr-emily-johnson.jpg",
+    "name": "Dr. Emily Johnson",
+    "specialty": "Orthopedic Surgeon",
+    "experience": "15 years",
+    "rating": 4.7,
+    "fees": 600,
+    "availability": ["Wednesday", "Friday"]
+  },
+  {
+    "_id": "66123456789abcd1234a5",
+    "image": "https://example.com/images/dr-michael-lee.jpg",
+    "name": "Dr. Michael Lee",
+    "specialty": "Pediatrician",
+    "experience": "7 years",
+    "rating": 4.6,
+    "fees": 300,
+    "availability": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+  },
+  {
+    "_id": "66123456789abcd1234a6",
+    "image": "https://example.com/images/dr-sophia-wilson.jpg",
+    "name": "Dr. Sophia Wilson",
+    "specialty": "Ophthalmologist",
+    "experience": "9 years",
+    "rating": 4.8,
+    "fees": 350,
+    "availability": ["Tuesday", "Thursday", "Saturday"]
+  },
+  {
+    "_id": "66123456789abcd1234a7",
+    "image": "https://example.com/images/dr-david-anderson.jpg",
+    "name": "Dr. David Anderson",
+    "specialty": "Psychiatrist",
+    "experience": "14 years",
+    "rating": 4.9,
+    "fees": 450,
+    "availability": ["Monday", "Wednesday", "Friday"]
+  }
+]
